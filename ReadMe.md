@@ -1,11 +1,12 @@
 # JS Style guide
+
 ## Table of contents
 
-1. Statement
-2. Variable
-3. Comments
-4. [Operators]
-5. Conditional structure - if
+1. [Statement](#Statement)
+2. [Variable](#Variable)
+3. [Comments](#Comments)
+4. [Operators](#Operators)
+5. [Conditional-structure-if](#Conditional-structure-if)
 
 ### 1. Statement
 
